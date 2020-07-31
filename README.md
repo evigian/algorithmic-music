@@ -21,3 +21,4 @@ It is necessary to install SuperCollider and FoxDot. It is recommended to instal
 ## Acknowledgments
 
 ## References
+Tolonen, T., Välimäki, V., and Karjalainen, M. 1998. Evaluation of Modern Sound Synthesis Methods. HUT.
