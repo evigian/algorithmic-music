@@ -1,10 +1,12 @@
 # algorithmic-music
 
-This repository was created for the course "Algorithmic Sound Structure & Composition" at the Department of Audio & Visual Arts of the Ionian University, taught by Prof. Zannos Ioannis. The purpose is to put in practice current methods of digital sound synthesis and algorithmic creation of musical structures, that were taught during the course.
+This repository was created for the course ["Algorithmic Sound Structure & Composition"](https://avarts.ionio.gr/en/studies/undergraduate/courses-descriptions/aud821/) at the Department of Audio & Visual Arts of the Ionian University, taught by Prof. Zannos Ioannis. The purpose is to put in practice current methods of digital sound synthesis and algorithmic creation of musical structures, that were taught during the course.
 
 ## Built with
 
-This project was built using [FoxDot](https://foxdot.org/), an Python library which is used as a live coding environment, and the sound synthesis engine [SuperCollider](https://supercollider.github.io/). FoxDot creates an interactive programming environment scheduling musical events while it communicates with SuperCollider. Both FoxDot and SuperCollider are open-source and they provide detailed documentation along with examples.
+This project was built using [FoxDot](https://foxdot.org/), a Python library which is used as a live coding environment, and the sound synthesis engine [SuperCollider](https://supercollider.github.io/). FoxDot creates an interactive programming environment scheduling musical events while it communicates with SuperCollider. Both FoxDot and SuperCollider are free and open-source softwares providing detailed documentation along with examples.
+
+## Sound synthesis algorithms & techniques
 
 ## Prerequisites
 
