@@ -1,6 +1,6 @@
 # algorithmic-music
 
-This repository was created for the course "Algorithmic Sound Structure & Composition" at the Department of Audio & Visual Arts of the Ionian University, taught by Prof. Zannos Ioannis. The purpose is to demonstrate current practices of digital sound synthesis and algorithmic creation of musical structures, that were taught during the course.
+This repository was created for the course "Algorithmic Sound Structure & Composition" at the Department of Audio & Visual Arts of the Ionian University, taught by Prof. Zannos Ioannis. The purpose is to put in practice current methods of digital sound synthesis and algorithmic creation of musical structures, that were taught during the course.
 
 ## Built with
 
