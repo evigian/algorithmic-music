@@ -18,7 +18,7 @@ Several years later, Wolfgang Amadeus Mozard created his own automated technique
 
 The potential of computers to generate music was recognised since the 19th century when Ada Lovelace, the inventor of the calculating engine, noticed that it might be able to compose elaborate and scientific pieces of different degrees of complexity or extent.
 
-Several years later, the first computer generated composition at the University of Illinois, was created by using raw musical material which was initially produced by the machine and was then modified according to different functions and were rated at the end based on specific rules.
+Several years later, the first computer generated composition by Lejaren Hiller at the University of Illinois, was created by using raw musical material which was initially produced by the machine and was then modified according to different functions which were rated at the end based on specific rules.
 
 One of the pioneering methods of algorithmic composition was that which was created by Iannis Xenakis who applied multiple different probability theories making use of the computational speed in order to create stochastic compositions, based on probability and random numbers. He was also the pioneer of Granular Synthesis, a technique which was developed by using a collage of muptiple recorded short sound sources.
 
