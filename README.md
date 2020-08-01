@@ -8,7 +8,7 @@ This project was built using [FoxDot](https://foxdot.org/), a Python library whi
 
 ## Workflow
 
-This synthesis was composed with FoxDot library using a variety of its built-in methods like: SynthDefs, Pattern methods, functions and Generators, filters, effects and algorithmic manipulation. While FoxDot is a live coding environment mostly being used as a performing arts form giving the possibility for interactive programming in an improvised way, the present project is written in a form that can be reproduced in the given sequence as in the provided recorded file. The recording was made on SuperCollider using the commands: `s.record;` and `s.stopRecording;`. The output file was converted to mp3 format using [Audacity](https://www.audacityteam.org/).
+This synthesis was composed with FoxDot library using a variety of its built-in objects and methods like: SynthDefs, Pattern methods, functions and Generators, filters, effects and algorithmic manipulation. While FoxDot is a live coding environment mostly being used as a performing arts form giving the possibility for interactive programming in an improvised way, the present project is written in a form that can be reproduced initially in the given sequence as in the provided recorded file. The recording was made on SuperCollider using the commands: `s.record;` and `s.stopRecording;`. The output file was converted to mp3 format using [Audacity](https://www.audacityteam.org/).
 
 
 ## Sound synthesis algorithms & techniques
@@ -33,9 +33,22 @@ Evi Giannakou
 
 ## Contributing
 
+Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+
 ## License
+
+This project is licensed under the MIT License. Please read the LICENSE.md file for further details.
 
 ## Acknowledgments
 
+Professor Ioannis Zannos, Department of Audio & Visual Arts, Ionian University.
+
 ## References
+
+Anderling, V., et al. 2014. Generation of music through genetic algorithms. Chalmers University of Technology and University of Gothenburg.
+
+Lotis, Th., Diamantopoulos, T. 2015. Music Informatics & Computer Music. [ebook] Athens:Hellenic Academic Libraries Link. [Available Online](http://hdl.handle.net/11419/4920).
+
+Ruviaro, Br. 2015. A Gentle Introduction to SuperCollider. Santa Clara University.
+
 Tolonen, T., Välimäki, V., and Karjalainen, M. 1998. Evaluation of Modern Sound Synthesis Methods. HUT.
