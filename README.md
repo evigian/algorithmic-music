@@ -1,4 +1,4 @@
-# algorithmic-music
+># algorithmic-music
 
 This repository was created for the course ["Algorithmic Sound Structure & Composition"](https://avarts.ionio.gr/en/studies/undergraduate/courses-descriptions/aud821/) at the Department of Audio & Visual Arts of the Ionian University, taught by Prof. Zannos Ioannis. The purpose is to put in practice current methods of digital sound synthesis and algorithmic creation of musical structures, that were taught during the course.
 
@@ -8,16 +8,34 @@ This project was built using [FoxDot](https://foxdot.org/), a Python library whi
 
 ## Workflow
 
-This synthesis was composed with FoxDot library using a variety of its built-in objects and methods like: SynthDefs, Pattern methods, functions and Generators, filters, effects and algorithmic manipulation. While FoxDot is a live coding environment mostly being used as a performing arts form giving the possibility for interactive programming in an improvised way, the present project is written in a form that can be reproduced initially in the given sequence as in the provided recorded file. The recording was made on SuperCollider using the commands: `s.record;` and `s.stopRecording;`. The output file was converted to mp3 format using [Audacity](https://www.audacityteam.org/).
+This synthesis was composed with FoxDot library using a variety of its built-in objects and methods like: SynthDefs, Pattern methods, functions and Generators, filters, effects and algorithmic manipulation. While FoxDot is a live coding environment mostly being used as a performing arts form giving the possibility for interactive programming in an improvised way, the present project is written in a form that can be reproduced initially in the given sequence as in the provided recorded file. The recording was made on SuperCollider using the commands: `s.record;` and `s.stopRecording;`. The output file was converted to mp3 format using the open-source audio software [Audacity](https://www.audacityteam.org/).
 
 
-## Sound synthesis algorithms & techniques
+##  Αlgorithms & techniques for Sound synthesis
+
+Musical algorithmic composition can be described as a process of making music by using some formal processes and computational methods which require minimal human intervention. Although it sounds like a modern technique that has been developed due to the revolution in computer science during the last decades, it seems that its roots date back to the ancient times when Pythagoras discovered the connection between music and maths. According to its teachings there is a direct relation between the natural laws and musical harmony while music is perceived as inseparable to numbers. Numbers were thought to be the key to the spiritual and physical universe and the musical sounds that are ordered by numbers exemplify the harmony of the universe corresponding to it. This way, he set the mathematical baseline for musical composition and experimentation that would follow.
+Several years later, Wolfgang Amadeus Mozard created his own automated technique based on chance and randomness.
+
+The potential of computers to generate music was recognised since the 19th century when Ada Lovelace, the inventor of the calculating engine, noticed that it might be able to compose elaborate and scientific pieces of different degrees of complexity or extent.
+
+Several years later, the first computer generated composition at the University of Illinois, was created by using raw musical material which was initially produced by the machine and was then modified according to different functions and were rated at the end based on specific rules.
+
+One of the pioneering methods of algorithmic composition was that which was created by Iannis Xenakis who applied multiple different probability theories making use of the computational speed in order to create stochastic compositions, based on probability and random numbers.
+
+Nowadays, the vast use of computers and information technology have brought a revolution not only in the music creativity and digital techniques in music production but also in the relationship and the experience that the audience has with music. Musical creation is no longer based on the pursuit of the ideal and unique form but it is rather based on an abstract realism which gives a plethora of possibilities for creativity and artistic expression. Taken for granted that the digital revolution has affected many different aspects of musical production and sound editing, computational and algorithmic synthesis is a subject that is taught and explored at the Musical Departments of the Universities, although there is a controversy over the aesthetics of the produced sounds and musical genres.
+
+
+# Getting started
+
+In order to get a copy of this project up and running on your local machine for development and testing purposes, please follow the instructions below.
 
 ## Prerequisites
 
-It is necessary to install SuperCollider and FoxDot. It is recommended to install git as well.
+- It is necessary to install SuperCollider and FoxDot following all the required steps in the respective installation guides. 
+- It is recommended to install [git](https://git-scm.com/downloads) as well.
+- Python 3.8.5 or an earlier version is also necessary.
 
-## Running the project
+## How to run the project
 
 If you wish to try running the file yourself and experiment with it, after having installed both FoxDot and SuperCollider:
 
